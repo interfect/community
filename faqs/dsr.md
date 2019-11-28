@@ -22,7 +22,7 @@ Yes, all Dai in the DSR contract is technically pooled together. Though, the sys
 
 ## Does the DSR compound or is it only earned on the principal?
 
-DSR is continuously compounding interest at a growth rate of x% per second. When the DSR is set to 2%, for example, it will be accumulating at 1.0000000006279371924910298109948‬% per second, meaning that at the end of year one the user will receive 2% on the principal. Assuming the user put in 100 Dai, at the end of year one they would have 102.00, and at the end of year two, they would have 104.04. 
+DSR is continuously compounding interest at a growth rate of x% per second. When the DSR is set to 2%, for example, it will be accumulating at 0.00000006279371924910298109948‬% per second, meaning that at the end of year one the user will receive 2% on the principal. Assuming the user put in 100 Dai, at the end of year one they would have 102.00, and at the end of year two, they would have 104.04. 
 
 Technical documentation about how Rates work in the Maker Protocol can be [found here.](https://docs.makerdao.com/smart-contract-modules/rates-module)
 
